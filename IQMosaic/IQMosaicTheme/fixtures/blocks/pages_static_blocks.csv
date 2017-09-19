@@ -1,0 +1,276 @@
+title,identifier,content
+"Home New Arrivals",home_new_arrivals,"<div class=""new_arrivals"">
+<h3>New Arrivals</h3>
+<div class=""col-lg-6 text-right""><img src=""{{media url=""wysiwyg/home/image.jpg""}}"" alt=""image"" /></div>
+<div class=""col-lg-6 text-left"">
+<div class=""cat-title""><span>BAGS</span></div>
+<div class=""block-title"">
+<h2>Be Flourish!</h2>
+<span>Summer printed bags collection</span></div>
+<div class=""block-button""><span class=""btn btn-new"">new bags</span><a class=""btn btn-open"" href=""#"">shop now</a></div>
+</div>
+<div class=""clearer""></div>
+</div>
+"
+"Home Slider",home_slider,"<div class=""home-slider"">
+<div class=""slider-content"">
+       <div class=""item"">
+              <div class=""sl-images""><img class=""sl1"" src=""{{media url=""wysiwyg/home/sl1.jpg""}}"" alt=""image"" /> <img class=""sl2"" src=""{{media url=""wysiwyg/home/sl2.jpg""}}"" alt=""image"" />
+                     <div class=""clearer""></div>
+                     <div class=""sl-text"">
+                            <div class=""sl-position"">
+                                   <div class=""slide-title"">
+                                          <h3>find your pair</h3>
+                                          <span>For corporate and creative people</span></div>
+                                          <div class=""slide-button""><a class=""btn btn-open"" href=""#"">discover</a></div>
+                                   </div>
+                            </div>
+                     </div>
+              </div>
+       </div>
+</div>
+"
+"Block Banners Category What's New",block-banners-category-what-is-new,"<div class=""new-block-whats-new"">
+<div class=""banner banner-one""><img class=""desktop"" src=""{{media url=""wysiwyg/category/whats-new-1.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/whats-new-1-768.jpg""}}"" alt=""image"" /> <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/whats-new-1-320.jpg""}}"" alt=""image"" />
+       <div class=""banner-text"">
+              <div class=""cat-title""><span>NEW</span></div>
+              <div class=""block-title"">
+                     <h2>Off-the-shoulder <br />Sweatshirt</h2>
+                     <span>Comfy, cute and so essential, featuring new colors and prints. Must-Have of this season.</span></div>
+                     <div class=""block-button""><a class=""btn btn-open"" href=""#"">shop now</a></div>
+              </div>
+       </div>
+       <div class=""group-one"">
+              <div class=""banner banner-two""><img class=""desktop"" src=""{{media url=""wysiwyg/category/whats-new-2.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/whats-new-2-768.jpg""}}"" alt=""image"" /> <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/whats-new-2-320.jpg""}}"" alt=""image"" />
+                     <div class=""banner-text"">
+                            <div class=""cat-title""><span>jeans</span></div>
+                            <div class=""block-title"">
+                                   <h2>20%Off</h2>
+                                   <span>Men&amp;Women Denim</span></div>
+                                   <div class=""block-button""><a class=""btn btn-open"" href=""#"">don&rsquo;t miss the sale</a></div>
+                            </div>
+                     </div>
+              </div>
+              <div class=""group-two"">
+                     <div class=""banner banner-three""><img src=""{{media url=""wysiwyg/category/whats-new-3.jpg""}}"" alt=""image"" />
+                            <div class=""banner-text""><a class=""banner-link"" href=""#"">Women Suits</a>
+                                   <div class=""block-button""><a class=""btn btn-open"" href=""#"">shop now</a></div>
+                            </div>
+                     </div>
+                     <div class=""banner banner-four""><img src=""{{media url=""wysiwyg/category/whats-new-4.jpg""}}"" alt=""image"" />
+                            <div class=""banner-text""><a class=""banner-link"" href=""#"">Men underwear</a>
+                                   <div class=""block-button""><a class=""btn btn-open"" href=""#"">shop now</a></div>
+                            </div>
+                     </div>
+              </div>
+              <div class=""clearer""></div>
+       </div>
+       "
+       "Chinchilla New Block",chinchilla-new-block,"{{widget type=""Magento\\CatalogWidget\\Block\\Product\\ProductsList"" products_per_page=""4"" products_count=""3"" template=""product/widget/content/grid.phtml"" conditions_encoded=""a:2:[i:1;a:4:[s:4:`type`;s:50:`Magento|CatalogWidget|Model|Rule|Condition|Combine`;s:10:`aggregator`;s:3:`all`;s:5:`value`;s:1:`1`;s:9:`new_child`;s:0:``;]s:4:`1--1`;a:4:[s:4:`type`;s:50:`Magento|CatalogWidget|Model|Rule|Condition|Product`;s:9:`attribute`;s:3:`new`;s:8:`operator`;s:2:`==`;s:5:`value`;s:1:`1`;]]""}}
+       "
+       "Chinchilla New Left Menu Block",chinchilla-new-left-menu-block,"<div class=""block filter"">
+       <div class=""categories-menu"">
+              <h1 id=""page-title-heading"" class=""page-title action showleftnav""><span class=""base"" data-ui-id=""page-title-wrapper"">What's New</span></h1>
+              <div data-block=""leftnav"">
+                     <div data-role=""dropdownDialog"" data-mage-init=""{&quot;dropdownDialog&quot;:{
+                     &quot;appendTo&quot;:&quot;[data-block=leftnav]&quot;,
+                     &quot;triggerTarget&quot;:&quot;.showleftnav&quot;,
+                     &quot;timeout&quot;: &quot;2000&quot;,
+                     &quot;closeOnMouseLeave&quot;: false,
+                     &quot;closeOnEscape&quot;: true,
+                     &quot;triggerClass&quot;:&quot;active&quot;,
+                     &quot;parentClass&quot;:&quot;active&quot;,
+                     &quot;buttons&quot;:[]}}""><strong class=""title""><span>New in women's</span></strong>
+                     <div class=""items dropdown"" data-target=""dropdown"">
+                            <ul class=""items"">
+                                   <li class=""item""><a href=""{{store url=""""}}women/tops-women/hoodies-and-sweatshirts-women.html"">Hoodies &amp; Sweatshirts</a></li>
+                                   <li class=""item""><a href=""{{store url=""""}}women/tops-women/jackets-women.html"">Jackets</a></li>
+                                   <li class=""item""><a href=""{{store url=""""}}women/tops-women/tees-women.html"">Tees</a></li>
+                                   <li class=""item""><a href=""{{store url=""""}}women/tops-women/tanks-women.html"">Bras &amp; Tanks</a></li>
+                                   <li class=""item""><a href=""{{store url=""""}}women/bottoms-women/pants-women.html"">Pants</a></li>
+                                   <li class=""item""><a href=""{{store url=""""}}women/bottoms-women/shorts-women.html"">Shorts</a></li>
+                            </ul>
+                            <strong class=""title""><span>New in men's</span></strong>
+                            <ul class=""items"">
+                                   <li class=""item""><a href=""{{store url=""""}}men/tops-men/hoodies-and-sweatshirts-men.html"">Hoodies &amp; Sweatshirts</a></li>
+                                   <li class=""item""><a href=""{{store url=""""}}men/tops-men/jackets-men.html"">Jackets</a></li>
+                                   <li class=""item""><a href=""{{store url=""""}}men/tops-men/tees-men.html"">Tees</a></li>
+                                   <li class=""item""><a href=""{{store url=""""}}men/tops-men/tanks-men.html"">Tanks</a></li>
+                                   <li class=""item""><a href=""{{store url=""""}}men/bottoms-men/pants-men.html"">Pants</a></li>
+                                   <li class=""item""><a href=""{{store url=""""}}men/bottoms-men/shorts-men.html"">Shorts</a></li>
+                            </ul>
+                     </div>
+              </div>
+       </div>
+</div>
+</div>
+"
+"Free Shipping Header",free-shipping-header,"<p>Free shipping. Free returns. All the time. <a href=""#"" class=""link-detalis"">See details.</a></p>
+"
+"Footer Links block 2",footer-links-block2,"<ul class=""footer links"">
+<li class=""nav item""><a href=""{{store url=""about-us""}}"">About us</a></li>
+<li class=""nav item""><a href=""{{store url=""customer-service""}}"">Customer Service</a></li>
+<li class=""nav item""><a href=""#"">Orders and Returns</a></li>
+</ul>
+"
+"Block Banners Category Men",block-banners-category-men,"<div class=""new-block-man"">
+<div class=""banner banner-one""><img class=""desktop"" src=""{{media url=""wysiwyg/category/men-1.jpg""}}"" alt=""image"" /><img class=""mobile-768"" src=""{{media url=""wysiwyg/category/men-1.jpg""}}"" alt=""image"" /> <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/men-1-320.jpg""}}"" alt=""image"" />
+       <div class=""banner-text"">
+              <div class=""cat-title""><span>Jackets</span></div>
+              <div class=""block-title"">
+                     <h2>Urbancode:<br />bigindigo</h2>
+              </div>
+              <div class=""block-button""><a class=""btn btn-open"" href=""#"">shop now</a></div>
+       </div>
+</div>
+<div class=""banner banner-two""><img class=""desktop"" src=""{{media url=""wysiwyg/category/men-2.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/men-2-768.jpg""}}"" alt=""image"" /><img class=""mobile-320"" src=""{{media url=""wysiwyg/category/men-2-320.jpg""}}"" alt=""image"" />
+       <div class=""banner-text""><a class=""banner-link"" href=""#"">man shoes</a></div>
+</div>
+<div class=""banner banner-three""><img class=""desktop"" src=""{{media url=""wysiwyg/category/men-3.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/men-3-768.jpg""}}"" alt=""image"" /><img class=""mobile-320"" src=""{{media url=""wysiwyg/category/men-3-320.jpg""}}"" alt=""image"" />
+       <div class=""banner-text"">
+              <div class=""cat-title""><span>Jeans</span></div>
+              <div class=""block-title"">
+                     <h2>-30%<br />sale</h2>
+              </div>
+       </div>
+</div>
+<div class=""banner banner-four""><img class=""desktop"" src=""{{media url=""wysiwyg/category/men-4.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/men-4-768.jpg""}}"" alt=""image"" /><img class=""mobile-320"" src=""{{media url=""wysiwyg/category/men-4-320.jpg""}}"" alt=""image"" />
+       <div class=""banner-text""><a class=""banner-link"" href=""#"">accessories</a></div>
+</div>
+<div class=""clearer""></div>
+</div>
+"
+"Block Banners Category Training",block-banners-category-training,"<div class=""new-block-training"">
+<div class=""banner banner-one""><img class=""desktop"" src=""{{media url=""wysiwyg/category/training-1.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/training-1-768.jpg""}}"" alt=""image"" /> <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/training-1-320.jpg""}}"" alt=""image"" />
+       <div class=""banner-text"">
+              <div class=""cat-title""><span>TRAINING</span></div>
+              <div class=""block-title"">
+                     <h2>Motivate yourself.<br /> Never give up.</h2>
+              </div>
+       </div>
+</div>
+<div class=""banner banner-two""><img class=""desktop"" src=""{{media url=""wysiwyg/category/training-2.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/training-2-768.jpg""}}"" alt=""image"" /> <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/training-2-320.jpg""}}"" alt=""image"" />
+       <div class=""banner-text""><a class=""banner-link"" href=""#"">Jillian Michaels Recommends</a>
+              <div class=""block-button""><a class=""btn btn-open"" href=""#"">shop now</a></div>
+       </div>
+</div>
+<div class=""banner banner-three""><img class=""desktop"" src=""{{media url=""wysiwyg/category/training-3.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/training-3-768.jpg""}}"" alt=""image"" /> <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/training-3-320.jpg""}}"" alt=""image"" />
+       <div class=""banner-text""><a class=""banner-link"" href=""#"">video tutorials</a>
+              <div class=""block-button""><a class=""btn btn-open"" href=""#"">shop now</a></div>
+       </div>
+</div>
+<div class=""clearer""></div>
+</div>
+"
+"Block Banners Category Gear",block-banners-category-gear,"<div class=""new-block-gear"">
+<div class=""banner banner-one""><img class=""desktop"" src=""{{media url=""wysiwyg/category/gear-1.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/gear-1.jpg""}}"" alt=""image"" /> <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/gear-1-320.jpg""}}"" alt=""image"" />
+       <div class=""banner-text"">
+              <div class=""cat-title""><span>bags</span></div>
+              <div class=""block-title"">
+                     <h2>New Milano</h2>
+                     <span>made in Italy</span></div>
+              </div>
+       </div>
+       <div class=""group-one"">
+              <div class=""banner banner-two""><img src=""{{media url=""wysiwyg/category/gear-2.jpg""}}"" alt=""image"" />
+                     <div class=""banner-text""><a class=""banner-link"" href=""#"">Universal backpack</a></div>
+              </div>
+              <div class=""banner banner-three""><img src=""{{media url=""wysiwyg/category/gear-3.jpg""}}"" alt=""image"" />
+                     <div class=""banner-text""><a class=""banner-link"" href=""#"">watches</a></div>
+              </div>
+              <div class=""banner banner-four""><img src=""{{media url=""wysiwyg/category/gear-4.jpg""}}"" alt=""image"" />
+                     <div class=""banner-text""><a class=""banner-link"" href=""#"">Fitness Style</a></div>
+              </div>
+              <div class=""clearer""></div>
+       </div>
+       <div class=""group-two"">
+              <div class=""banner banner-five""><img src=""{{media url=""wysiwyg/category/gear-5.jpg""}}"" alt=""image"" />
+                     <div class=""banner-text""><a class=""banner-link"" href=""#"">NEW FRAGRANCE </a>
+                            <div class=""block-button""><a class=""btn btn-open"" href=""#"">shop now</a></div>
+                     </div>
+              </div>
+              <div class=""banner banner-six""><img src=""{{media url=""wysiwyg/category/gear-6.jpg""}}"" alt=""image"" />
+                     <div class=""banner-text""><a class=""banner-link"" href=""#"">Victoriassecret sport </a>
+                            <div class=""block-button""><a class=""btn btn-open"" href=""#"">shop now</a></div>
+                     </div>
+              </div>
+              <div class=""clearer""></div>
+       </div>
+       <div class=""clearer""></div>
+</div>
+"
+"Block Banners Category Women",block-banners-category-women,"<div class=""new-block-women"">
+<div class=""banner banner-one""><img class=""desktop"" src=""{{media url=""wysiwyg/category/women-1.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/women-1.jpg""}}"" alt=""image"" /> <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/women-1-320.jpg""}}"" alt=""image"" />
+       <div class=""banner-text"">
+              <div class=""cat-title""><span>Dresses</span></div>
+              <div class=""block-title"">
+                     <h2>Fairy<br />Prints<br />Season</h2>
+              </div>
+              <div class=""block-button""><a class=""btn btn-open"" href=""#"">shop now</a></div>
+       </div>
+</div>
+<div class=""group-one"">
+       <div class=""banner banner-two""><img class=""desktop"" src=""{{media url=""wysiwyg/category/women-2.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/women-2-768.jpg""}}"" alt=""image"" /> <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/women-2-320.jpg""}}"" alt=""image"" />
+              <div class=""banner-text""><a class=""banner-link"" href=""#"">sunglasses</a></div>
+       </div>
+       <div class=""banner banner-three""><img class=""desktop"" src=""{{media url=""wysiwyg/category/women-3.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/women-3-768.jpg""}}"" alt=""image"" /> <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/women-3-320.jpg""}}"" alt=""image"" />
+              <div class=""banner-text""><a class=""banner-link"" href=""#"">bags</a></div>
+       </div>
+       <div class=""banner banner-four""><img class=""desktop"" src=""{{media url=""wysiwyg/category/women-4.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/women-4-768.jpg""}}"" alt=""image"" /> <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/women-4-320.jpg""}}"" alt=""image"" />
+              <div class=""banner-text""><a class=""banner-link"" href=""#"">shoes</a></div>
+       </div>
+       <div class=""clearer""></div>
+</div>
+<div class=""group-two"">
+       <div class=""banner banner-five""><img class=""desktop"" src=""{{media url=""wysiwyg/category/women-5.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/women-5.jpg""}}"" alt=""image"" /> <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/women-5-320.jpg""}}"" alt=""image"" />
+              <div class=""banner-text""><a class=""banner-link"" href=""#"">PRINTED FOULARD</a></div>
+       </div>
+       <div class=""banner banner-six""><img class=""desktop"" src=""{{media url=""wysiwyg/category/women-6.jpg""}}"" alt=""image"" /> <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/women-6-768.jpg""}}"" alt=""image"" /> <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/women-6-320.jpg""}}"" alt=""image"" />
+              <div class=""banner-text""><a class=""banner-link"" href=""#"">Perfect Bras</a></div>
+       </div>
+       <div class=""clearer""></div>
+</div>
+<div class=""clearer""></div>
+</div>
+"
+"Block Banners Category Sale",block-banners-category-sale,"<div class=""new-block-sale"">
+<div class=""banner banner-one"">
+       <img class=""desktop"" src=""{{media url=""wysiwyg/category/sale-1.jpg""}}"" alt=""image"" />
+       <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/sale-1.jpg""}}"" alt=""image"" />
+       <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/sale-1-320.jpg""}}"" alt=""image"" />
+       <div class=""banner-text"">
+              <div class=""cat-title""><span>lingerie</span></div>
+              <div class=""block-title"">
+                     <h2>Sexy Summer Sale</h2>
+                     <span>Save up to 50% on lingerie</span>
+              </div>
+              <div class=""block-button""><a class=""btn btn-open"" href=""#"">shop now</a></div>
+       </div>
+</div>
+<div class=""banner banner-two"">
+       <img class=""desktop"" src=""{{media url=""wysiwyg/category/sale-2.jpg""}}"" alt=""image"" />
+       <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/sale-2-768.jpg""}}"" alt=""image"" />
+       <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/sale-2.jpg""}}"" alt=""image"" />
+       <div class=""banner-text"">
+              <div class=""cat-title""><span>shoes</span></div>
+              <div class=""block-title"">
+                     <h2>sale-sale</h2>
+              </div>
+              <div class=""block-button""><a class=""btn btn-open"" href=""#"">shop now</a></div>
+       </div>
+</div>
+<div class=""banner banner-three"">
+       <img class=""desktop"" src=""{{media url=""wysiwyg/category/sale-3.jpg""}}"" alt=""image"" />
+       <img class=""mobile-768"" src=""{{media url=""wysiwyg/category/sale-3-768.jpg""}}"" alt=""image"" />
+       <img class=""mobile-320"" src=""{{media url=""wysiwyg/category/sale-3.jpg""}}"" alt=""image"" />
+       <div class=""banner-text"">
+              <div class=""cat-title""><span>sport</span></div>
+              <div class=""block-title"">
+                     <h2>20%off</h2>
+              </div>
+              <div class=""block-button""><a class=""btn btn-open"" href=""#"">shop now</a></div>
+       </div>
+</div>
+<div class=""clearer""></div>
+</div>
+"

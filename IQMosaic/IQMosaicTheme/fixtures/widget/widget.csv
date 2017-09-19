@@ -1,0 +1,4 @@
+block_identifier,type_code,theme_path,title,page_group,group_data
+chinchilla-new-left-menu-block,cms_static_block,frontend/Chinchilla/chinchilla,"Chinchilla What's New Left Menu",anchor_categories,"{""entities"":""what-is-new"",""block"":""sidebar.main"",""for"":""specific"",""is_anchor_only"":1}"
+chinchilla-new-block,cms_static_block,frontend/Chinchilla/chinchilla,"Chinchilla New Products Category Content",anchor_categories,"{""entities"":""what-is-new"",""block"":""content.bottom"",""for"":""specific"",""is_anchor_only"":1}"
+block-banners-category-what-is-new,cms_static_block,frontend/Chinchilla/chinchilla,"Chinchilla Category Content What's New",anchor_categories,"{""entities"":""what-is-new"",""block"":""content.top"",""for"":""specific"",""is_anchor_only"":1}"

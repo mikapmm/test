@@ -1,0 +1,13 @@
+title,page_layout,meta_keywords,meta_description,identifier,content_heading,content,is_active,sort_order,layout_update_xml,custom_theme,custom_root_template,custom_layout_update_xml,custom_theme_from,custom_theme_to
+"Home Page",1column,,,home,"Home Page","<div class=""home-top""><img src=""{{media url=""wysiwyg/home/slide.jpg""}}"" alt=""image"" />
+<div class=""slide-content"">
+<div class=""slide-title"">
+<h2>like A virgin</h2>
+<span>Romantic, regal, refined chiffon</span></div>
+<div class=""slide-button""><span class=""btn btn-new"">new collection</span><a class=""btn btn-open"" href=""#"">discover now</a></div>
+</div>
+</div>
+{{widget type=""Magento\Cms\Block\Widget\Block"" template=""widget/static_block/default.phtml"" block_id=""19""}} {{widget type=""Magento\Cms\Block\Widget\Block"" template=""widget/static_block/default.phtml"" block_id=""20""}}
+<div class=""block-desktop"">{{widget type=""Magento\Catalog\Block\Product\Widget\NewWidget"" display_type=""new_products"" products_count=""3"" template=""product/widget/new/content/new_grid.phtml""}}</div>
+<div class=""block-mobile"">{{widget type=""Magento\Catalog\Block\Product\Widget\NewWidget"" display_type=""new_products"" products_count=""2"" template=""product/widget/new/content/new_grid.phtml""}}</div>
+",1,,,,,,,

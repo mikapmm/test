@@ -1,0 +1,4 @@
+block_identifier,type_code,theme_path,title,page_group,group_data
+contact-us-info,cms_static_block,"frontend/Chinchilla/сhinchilla","Test 1",pages,"{""block"":""content.top"",""layout_handle"":""contact_index_index""}"
+footer_links_block,cms_static_block,"frontend/Chinchilla/сhinchilla","Footer Links",all_pages,"{""block"":""cms_footer_links_container""}"
+sale-left-menu-block,cms_static_block,"frontend/Chinchilla/сhinchilla","Test 2",anchor_categories,"{""entities"":""sale"",""block"":""sidebar.main"",""for"":""specific"",""is_anchor_only"":1}"
